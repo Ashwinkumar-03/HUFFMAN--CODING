@@ -1,3 +1,4 @@
+# Exp-11
 # Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
@@ -19,11 +20,9 @@ Step5: print the characters and its huffmancode
 
  
 ## Program:
-```
-NAME: Ashwin Kumar S
-REG.No:212222240013
+### NAME: Ashwin Kumar S
+### REG.No:212222240013
 
-```
 
 ``` 
 # Get the input String
